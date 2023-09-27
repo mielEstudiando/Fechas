@@ -20,6 +20,6 @@ public class TodaysDate {
 
         System.out.println("Time: " + time);
         System.out.println("Date: "+ month + " "
-        + day + " " + "year");
+        + day + " " + year);
     }
 }
